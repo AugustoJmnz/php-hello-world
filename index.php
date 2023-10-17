@@ -1,4 +1,5 @@
 <?php
+    echo "Hello World, Azure!";
     $dbhost = "aplicacionwebbasededato-server.mysql.database.azure.com";
     $dbuser = "sxtsaygsbk";
     $dbpassword = "IC2540W4VMB01YW1$";
